@@ -25,7 +25,7 @@ a, a:visited {
 
 h1, h2 {
   display: inline-block;
-  border-bottom-style: dotted;
+  border-bottom-style: double;
   border-bottom-color: ##DAF7A6;
 }
 
