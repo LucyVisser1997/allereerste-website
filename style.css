@@ -35,7 +35,9 @@ h1 {
 
 h2 {
   border-bottom-width: 5px;
+  text-align: center;
 }
+
 
 img, audio, iframe {
   width: 100%;
